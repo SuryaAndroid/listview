@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
         },
         child: Scaffold(
           appBar: AppBar(
-            title: Text('Coimbatore'),
+            title: Text('MMCS PROJECT'),
           ),
         ),
       ),
