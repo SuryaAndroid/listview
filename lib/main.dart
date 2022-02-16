@@ -17,12 +17,11 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: WillPopScope(
         onWillPop: () async{
-          print("poppp");
           return false;
         },
         child: Scaffold(
           appBar: AppBar(
-            title: Text('SURYA'),
+            title: Text('Durga'),
           ),
         ),
       ),
